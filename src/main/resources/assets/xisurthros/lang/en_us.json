@@ -2,5 +2,11 @@
   "item.xisurthros.zircon": "Zircon",
   "item.xisurthros.raw_zircon": "Raw Zircon",
 
+  "block.xisurthros.zircon_block": "Block of Zircon",
+  "block.xisurthros.zircon_ore": "Zircon Ore",
+  "block.xisurthros.deepslate_zircon_ore": "Deepslate Zircon Ore",
+  "block.xisurthros.endstone_zircon_ore": "Endstone Zircon Ore",
+  "block.xisurthros.netherrack_zircon_ore": "Netherack Zircon Ore",
+
   "itemGroup.xisurthrostab": "Xisurthros Tab"
 }
