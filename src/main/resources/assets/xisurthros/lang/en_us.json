@@ -1,4 +1,6 @@
 {
   "item.xisurthros.zircon": "Zircon",
-  "item.xisurthros.raw_zircon": "Raw Zircon"
+  "item.xisurthros.raw_zircon": "Raw Zircon",
+
+  "itemGroup.xisurthrostab": "Xisurthros Tab"
 }
