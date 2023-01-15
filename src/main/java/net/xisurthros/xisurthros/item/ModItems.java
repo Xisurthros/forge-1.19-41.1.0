@@ -12,9 +12,9 @@ public class ModItems {
     public static final DeferredRegister<Item> ITEMS = DeferredRegister.create(ForgeRegistries.ITEMS, Xisurthros.MOD_ID);
 
     public static final RegistryObject<Item> ZIRCON = ITEMS.register("zircon",
-            () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
+            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.XISURTHROS_TAB)));
     public static final RegistryObject<Item> RAW_ZIRCON = ITEMS.register("raw_zircon",
-            () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
+            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.XISURTHROS_TAB)));
 
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);
