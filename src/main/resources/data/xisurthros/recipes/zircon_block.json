@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "xisurthros:zircon"
+    }
+  },
+  "result": {
+    "item": "xisurthros:zircon_block"
+  }
+}
